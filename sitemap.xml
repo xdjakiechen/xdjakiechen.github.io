@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>xdjakiechen.github.io/categories/</loc>
+    <loc>https://xdjakiechen.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>xdjakiechen.github.io/series/</loc>
+    <loc>https://xdjakiechen.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>xdjakiechen.github.io/tags/</loc>
+    <loc>https://xdjakiechen.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>xdjakiechen.github.io/</loc>
+    <loc>https://xdjakiechen.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>xdjakiechen.github.io/archives/</loc>
+    <loc>https://xdjakiechen.github.io/archives/</loc>
   </url>
   
 </urlset>
