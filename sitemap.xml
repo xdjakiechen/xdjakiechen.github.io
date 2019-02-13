@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>xdjakiechen.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/series/</loc>
+    <loc>xdjakiechen.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>xdjakiechen.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>xdjakiechen.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/archives/</loc>
+    <loc>xdjakiechen.github.io/archives/</loc>
   </url>
   
 </urlset>
