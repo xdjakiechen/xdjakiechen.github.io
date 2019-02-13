@@ -10,5 +10,14 @@
 	<atom:link href="https://xdjakiechen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Hello World</title>
+      <link>https://xdjakiechen.github.io/categories/hello-world/</link>
+      <pubDate>Sun, 10 Feb 2019 21:48:51 +0800</pubDate>
+      
+      <guid>https://xdjakiechen.github.io/categories/hello-world/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
